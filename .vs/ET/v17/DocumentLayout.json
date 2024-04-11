@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Dev\\EvaluacionTecnica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\evaluaciontecnica\\et.domain\\entities\\tipocomisario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\entities\\tipocomisario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\evaluaciontecnica\\et.domain\\entities\\eventocomisario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\entities\\eventocomisario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\evaluaciontecnica\\et.domain\\entities\\tipodeporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\entities\\tipodeporte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -114,7 +126,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1429,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,7 +142,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TipoComisario.cs",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\TipoComisario.cs",
+              "RelativeDocumentMoniker": "ET.Domain\\Entities\\TipoComisario.cs",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\TipoComisario.cs",
+              "RelativeToolTip": "ET.Domain\\Entities\\TipoComisario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:15:34.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TipoDeporte.cs",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\TipoDeporte.cs",
+              "RelativeDocumentMoniker": "ET.Domain\\Entities\\TipoDeporte.cs",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\TipoDeporte.cs",
+              "RelativeToolTip": "ET.Domain\\Entities\\TipoDeporte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:15:32.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EventoComisario.cs",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\EventoComisario.cs",
+              "RelativeDocumentMoniker": "ET.Domain\\Entities\\EventoComisario.cs",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\Entities\\EventoComisario.cs",
+              "RelativeToolTip": "ET.Domain\\Entities\\EventoComisario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T15:15:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "SedeOlimpicaController.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Controllers\\SedeOlimpicaController.cs",
               "RelativeDocumentMoniker": "ET.Web\\Controllers\\SedeOlimpicaController.cs",
@@ -138,12 +189,11 @@
               "RelativeToolTip": "ET.Web\\Controllers\\SedeOlimpicaController.cs",
               "ViewState": "AQIAAEIAAAAAAAAAAAAmwFcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:03:45.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:03:45.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "ComplejoDeportivoController.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Controllers\\ComplejoDeportivoController.cs",
               "RelativeDocumentMoniker": "ET.Web\\Controllers\\ComplejoDeportivoController.cs",
@@ -151,12 +201,11 @@
               "RelativeToolTip": "ET.Web\\Controllers\\ComplejoDeportivoController.cs",
               "ViewState": "AQIAAFgAAAAAAAAAAADgv28AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:02:52.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:02:52.687Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "BaseController.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Base\\BaseController.cs",
               "RelativeDocumentMoniker": "ET.Web\\Base\\BaseController.cs",
@@ -164,12 +213,11 @@
               "RelativeToolTip": "ET.Web\\Base\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:01:45.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:45.65Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ET.Web\\Controllers\\HomeController.cs",
@@ -177,12 +225,11 @@
               "RelativeToolTip": "ET.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:01:44.143Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:44.143Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Login\\Index.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Login\\Index.cshtml",
@@ -190,12 +237,11 @@
               "RelativeToolTip": "ET.Web\\Views\\Login\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:26.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:26.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\SedeOlimpica\\Update.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\SedeOlimpica\\Update.cshtml",
@@ -203,12 +249,11 @@
               "RelativeToolTip": "ET.Web\\Views\\SedeOlimpica\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:23.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:23.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\SedeOlimpica\\Index.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\SedeOlimpica\\Index.cshtml",
@@ -216,12 +261,11 @@
               "RelativeToolTip": "ET.Web\\Views\\SedeOlimpica\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:23.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:23.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Shared\\_Layout.cshtml",
@@ -234,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SedeOlimpicaRepository.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
               "RelativeDocumentMoniker": "ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
@@ -242,12 +286,11 @@
               "RelativeToolTip": "ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAhwBkAAABKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:06:30.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:06:30.281Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "LoginController.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "ET.Web\\Controllers\\LoginController.cs",
@@ -255,12 +298,11 @@
               "RelativeToolTip": "ET.Web\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T15:03:44.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:03:44.741Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\SedeOlimpica\\Delete.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\SedeOlimpica\\Delete.cshtml",
@@ -268,12 +310,11 @@
               "RelativeToolTip": "ET.Web\\Views\\SedeOlimpica\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:22.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:22.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\SedeOlimpica\\Create.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\SedeOlimpica\\Create.cshtml",
@@ -281,12 +322,11 @@
               "RelativeToolTip": "ET.Web\\Views\\SedeOlimpica\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:21.415Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:21.415Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\ComplejoDeportivo\\Update.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\ComplejoDeportivo\\Update.cshtml",
@@ -294,12 +334,11 @@
               "RelativeToolTip": "ET.Web\\Views\\ComplejoDeportivo\\Update.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:14.145Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:14.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\ComplejoDeportivo\\Index.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\ComplejoDeportivo\\Index.cshtml",
@@ -307,12 +346,11 @@
               "RelativeToolTip": "ET.Web\\Views\\ComplejoDeportivo\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:04.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:04.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\ComplejoDeportivo\\Delete.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\ComplejoDeportivo\\Delete.cshtml",
@@ -320,12 +358,11 @@
               "RelativeToolTip": "ET.Web\\Views\\ComplejoDeportivo\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:03.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:03.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "Create.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\ComplejoDeportivo\\Create.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\ComplejoDeportivo\\Create.cshtml",
@@ -333,12 +370,11 @@
               "RelativeToolTip": "ET.Web\\Views\\ComplejoDeportivo\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T15:01:02.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T15:01:02.248Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "Session.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Core\\Session.cs",
               "RelativeDocumentMoniker": "ET.Web\\Core\\Session.cs",
@@ -346,12 +382,11 @@
               "RelativeToolTip": "ET.Web\\Core\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:59:50.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T14:59:50.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Core\\MappingConfig.cs",
               "RelativeDocumentMoniker": "ET.Web\\Core\\MappingConfig.cs",
@@ -359,12 +394,11 @@
               "RelativeToolTip": "ET.Web\\Core\\MappingConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:17:12.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T14:17:12.918Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Program.cs",
               "RelativeDocumentMoniker": "ET.Web\\Program.cs",
@@ -372,12 +406,11 @@
               "RelativeToolTip": "ET.Web\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T14:11:21.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-11T14:11:21.255Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ET.Web\\appsettings.Development.json",
@@ -389,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 24,
               "Title": "appsettings.Production.json",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Production.json",
               "RelativeDocumentMoniker": "ET.Web\\appsettings.Production.json",
@@ -401,7 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.json",
               "RelativeDocumentMoniker": "ET.Web\\appsettings.json",
@@ -413,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Usuario\\Index.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Usuario\\Index.cshtml",
@@ -425,7 +458,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Home\\Index.cshtml",
@@ -437,7 +470,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 27,
               "Title": "Error.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Error.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Home\\Error.cshtml",
@@ -449,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 28,
               "Title": "_Footer.cshtml",
               "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "ET.Web\\Views\\Shared\\_Footer.cshtml",

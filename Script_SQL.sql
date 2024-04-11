@@ -114,13 +114,29 @@ create table [dbo].[Evento] -- select * from [dbo].[Evento]
 	Eliminado bit default(0)
 )
 
+IF OBJECT_ID('dbo.TipoComisario', 'U') IS NOT NULL  DROP TABLE [dbo].[TipoComisario]; 
+create table [dbo].[TipoComisario] -- select * from [dbo].TipoComisario
+(
+	Id uniqueidentifier primary key not null,
+	Descripcion varchar(200) not null,
+	UsuarioCreador uniqueidentifier	not null,
+	FechaCreacion datetime not null,
+	UsuarioModificador uniqueidentifier,
+	FechaModificacion datetime,
+	Eliminado bit default(0)
+)
+
+Insert into [dbo].[TipoComisario] values (newid(),'Jeuz',@GuidUsuarioInsert,GETDATE(),null,null,0)
+Insert into [dbo].[TipoComisario] values (newid(),'Observador',@GuidUsuarioInsert,GETDATE(),null,null,0)
+
+
 IF OBJECT_ID('dbo.EventoComisario', 'U') IS NOT NULL  DROP TABLE [dbo].[EventoComisario]; 
 create table [dbo].[EventoComisario] -- select * from [dbo].[EventoComisario]
 (
 	Id uniqueidentifier primary key not null,
 	IdEvento uniqueidentifier foreign key references [dbo].[Evento](Id),
+	IdTipoComisario uniqueidentifier foreign key references [dbo].[TipoComisario](Id),
 	Nombre varchar(200) not null,
-	TipoComisario varchar(200) not null,
 	UsuarioCreador uniqueidentifier	not null,
 	FechaCreacion datetime not null,
 	UsuarioModificador uniqueidentifier,
