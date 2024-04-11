@@ -1,0 +1,42 @@
+﻿@model IEnumerable<ET.Web.Models.SedeOlimpicaModel>
+
+@{
+    ViewData["Title"] = "Sede Olimpica";
+    Layout = "_Layout";
+}
+<div class="container p-4 border mt-5">
+    <div class="row pb-2">
+        <div class="col">
+            <h3 class="text-dark">Sede Olimpicos</h3>
+        </div>
+        <div class="col text-end pt-1 text-right">
+            <a asp-controller="SedeOlimpica" asp-action="Create" class="btn btn-outline-primary"><i class="bi bi-plus-square-fill"></i> Crear Nueva Sede</a>
+        </div>
+    </div>
+    <div class="table-responsive">
+        <table class="table table-hover">
+            <thead>
+                <tr class="">
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Nro de Complejos</th>
+                    <th scope="col">Presupuesto</th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td><strong>@item.Nombre</strong></td>
+                        <td><strong>@item.NumeroComplejos</strong></td>
+                        <td><strong>@((item.Presupuesto).ToString("c", System.Globalization.CultureInfo.GetCultureInfo("es-PE")))</strong></td>
+                        <td class="text-left">
+                            <a asp-controller="SedeOlimpica" asp-action="Update" asp-route-IdSede="@item.Id" class="waves-effect waves-light"><i class="fa fa-edit fa-2x"></i></a>
+                            <a asp-controller="SedeOlimpica" asp-action="Delete" asp-route-IdSede="@item.Id" class="waves-effect waves-light"><i class="fa fa-trash fa-2x"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

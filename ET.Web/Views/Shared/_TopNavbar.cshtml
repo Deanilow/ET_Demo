@@ -1,0 +1,23 @@
+﻿<div class="row border-bottom">
+    <nav class="navbar navbar-static-top" role="navigation" style="margin-bottom: 0">
+        <div class="navbar-header">
+            <a class="navbar-minimalize minimalize-styl-2" href="#" style="float: left; background-color: transparent; background-image: none; font-family: fontAwesome; color: black;"><i class="fa fa-bars"></i> </a>
+        </div>
+        <ul class="nav navbar-top-links navbar-right">
+            
+            <li class="nav-item dropdown">
+                <a class="nav-link" data-toggle="dropdown" href="#">
+                    <i class="fa fa-user-circle-o"></i>
+                </a>
+                <div class="dropdown-menu dropdown-menu-md dropdown-menu-right">
+                    <div class="dropdown-divider"></div>
+                    <button class="btn btn-block btn-dark btn-sm ml-2 mr-2 btnLogout" onclick="location.href='@Url.Action("LogOut", "Login")'" style="width: -webkit-fill-available">
+                        <i class="fas fa-sign-out-alt"></i>
+                        Cerrar sesión
+                    </button>
+                </div>
+
+            </li>
+        </ul>
+    </nav>
+</div>

@@ -1,0 +1,81 @@
+﻿@model ET.Web.Models.LoginModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link runat="server" rel="shortcut icon" href="~/favicon.ico" type="image/x-icon" />
+    <link runat="server" rel="icon" href="~/favicon.ico" type="image/ico" />
+    <title>Login</title>
+    <environment names="Development">
+        <link rel="stylesheet" href="~/adminlte3.1/plugins/fontawesome-free/css/all.css">
+        <link rel="stylesheet" href="~/adminlte3.1/dist/css/adminlte.min.css">
+        <link rel="stylesheet" href="~/css/Login/AppLogin.min.css">
+        <link rel="stylesheet" href="~/css/site.css">
+    </environment>
+    <environment names="Production">
+        <link rel="stylesheet" href="~/adminlte3.1/plugins/fontawesome-free/css/all.css">
+        <link rel="stylesheet" href="~/adminlte3.1/dist/css/adminlte.min.css">
+        <link rel="stylesheet" href="~/css/Login/AppLogin.min.css">
+        <link rel="stylesheet" href="~/css/site.css">
+    </environment>
+    <style>
+    </style>
+</head>
+
+<body>
+    <div class="login-page" style="min-height: 512.391px;">
+        <div class="login-box">
+            <div class="card p-3 card-outline">
+                <div class="card-body login-card-body">
+                    <div class="d-flex justify-content-center">
+                        <h2> Iniciar Sesion </h2>
+                    </div>
+                    <form class="" asp-action="Index" asp-controller="Login"
+                          method="post" asp-antiforgery="false" autocomplete="off">
+                        <div class="row">
+                            <div class="col-12">
+                                <label>Correo</label>
+                                <input asp-for="Email" class="form-control form-control-sm" type="text" id="txtEmail" name="Email" value="D4niloramos@hotmail.com">
+                                <span class="texto-error d-none"></span>
+                            </div>
+                            <div class="col-12">
+                                <label>Contraseña</label>
+                                <input asp-for="Password" class="form-control form-control-sm" type="password" id="txtContrasena" name="Password" value="admin@123">
+                                <span class="texto-error d-none"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-12 div-login mt-3">
+                                <button type="submit" class="btn btn-block btn-dark">
+                                    <i class="fas fa-spinner fa-spin d-none fa-iniciarsesion"></i>
+                                    Iniciar Sesion
+                                </button>
+                                
+                                @if (!string.IsNullOrEmpty(Model.Mensaje))
+                                    {
+                                    <span class="texto-error">@Model.Mensaje</span>
+                                    }
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <environment names="Development">
+        <script src="~/adminlte3.1/plugins/jquery/jquery.js"></script>
+        <script src="~/adminlte3.1/plugins/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="~/adminlte3.1/dist/js/adminlte.min.js"></script>
+    </environment>
+    <environment names="Production">
+        <script src="~/adminlte3.1/plugins/jquery/jquery.js"></script>
+        <script src="~/adminlte3.1/plugins/bootstrap/js/bootstrap.bundle.js"></script>
+        <script src="~/adminlte3.1/dist/js/adminlte.min.js"></script>
+    </environment>
+</body>
+</html>

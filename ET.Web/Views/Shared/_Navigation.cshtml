@@ -1,0 +1,21 @@
+﻿@using ET.Domain.Entities
+@{
+    var user = (Usuario)ViewBag.UsuarioActual;
+}
+<nav class="navbar-default navbar-static-side" role="navigation">
+    <div class="sidebar-collapse">
+        <ul class="nav metismenu" id="side-menu" data-widget="treeview" role="menu" data-accordion="false">
+            <li class="nav-header">
+                <div class="profile-element">
+                    <div class="pull-left" style=" padding: 5px 5px 5px 5px; left: 70px;">
+                        <span class="block m-t-xs font-bold" style="font-weight: 600;">@user.Nombres  @user.Apellidos </span>
+                        <span class="block m-t-xs font-bold" style="font-weight: 550;">Perfil : @user.Perfil</span>
+                    </div>
+                </div>
+            </li>
+
+            <li><a href='/SedeOlimpica/Index'><i class='nav-icon fas fa-user' style='color: black;'></i> <span> Sede Olimpica </span></a></li>
+            <li><a href='/ComplejoDeportivo/Index'><i class='nav-icon fas fa-user' style='color: black;'></i> <span> Complejo Deportivo </span></a></li>
+        </ul>
+    </div>
+</nav>

@@ -1,0 +1,75 @@
+﻿@model ET.Web.Models.ComplejoDeportivoModel
+@{
+    ViewData["Title"] = "Sede Olimpica";
+    Layout = "_Layout";
+}
+
+<form asp-action="Update">
+    <br />
+    <div class="container border p-3">
+        <h3 class="text-dark">Actualizacion</h3>
+        <hr />
+        <div class="row">
+            <input hidden asp-for="Id" />
+            
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12">
+                <label>Nombres *</label>
+                <input class="form-control" asp-for="Nombre" autocomplete="off" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="col-10 pb-3 d-none">
+                <input class="form-control" asp-for="SedeOlimpicaModel.Nombre" />
+                <span asp-validation-for="SedeOlimpicaModel.Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12">
+                <label>Sede *</label>
+                <select asp-for="SedeOlimpicaModel.Id" asp-items="@Model.SedeList" class="form-select">
+                    <option disabled selected>-Select Car-</option>
+                </select>
+                <span asp-validation-for="SedeOlimpicaModel.Id" class="text-danger"></span>
+            </div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12">
+                <label>Localizacion *</label>
+                <input class="form-control" asp-for="Localizacion" autocomplete="off" />
+                <span asp-validation-for="Localizacion" class="text-danger"></span>
+            </div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12">
+                <label>Jefe de Organizacion *</label>
+                <input class="form-control" asp-for="JefeOrganizacion" autocomplete="off" />
+                <span asp-validation-for="JefeOrganizacion" class="text-danger"></span>
+            </div>
+
+            @if (!string.IsNullOrEmpty(Model.Mensaje))
+            {
+                <span class="texto-error">@Model.Mensaje</span>
+            }
+
+            <div class="col-sm-12 col-lg-12 col-md-12 col-12 mt-3">
+                <div class="text-center">
+                    <button type="button" onclick="location.href='@Url.Action("Index", "ComplejoDeportivo")'" class="btn btn-sm btn-raised btn-light waves-effect" data-dismiss="modal"><i class="fa fa-undo"></i>  Regresar</button>
+                    <button id="btnUpdate" type="submit" class="btn btn-sm btn-raised btn-success waves-effect">
+                        <i class="fa fa-save iconGuardar"> Actualizar </i>
+                        <i class="fa fa-spinner fa-spin d-none iconCargando" style="font-size: 1rem;"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</form>
+<script>
+    function updateInput() {
+        var select = document.getElementById('IdSedeOlimpica');
+        var selectedOption = select.options[select.selectedIndex].text;
+        document.getElementById('SedeOlimpicaModel_Id').value = selectedOption;
+    }
+</script>
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

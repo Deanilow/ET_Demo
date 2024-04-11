@@ -1,0 +1,46 @@
+﻿@model ET.Web.Models.SedeOlimpicaModel
+@{
+    ViewData["Title"] = "Sede Olimpica";
+    Layout = "_Layout";
+}
+<form asp-action="Create">
+    <br />
+    <div class="container border p-3">
+        <h3 class="text-dark">Crear</h3>
+        <hr />
+        <div class="row">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12">
+                <label>Nombres *</label>
+                <input class="form-control" asp-for="Nombre" autocomplete="off" />
+                <span asp-validation-for="Nombre" class="text-danger"></span>
+            </div>
+
+            <div class="col-sm-3 col-lg-3 col-md-3 col-12 mb-2">
+                <label>Presupuesto *</label>
+                <input class="form-control" asp-for="Presupuesto" autocomplete="off" value="0"></input>
+                <span asp-validation-for="Presupuesto" class="text-danger"></span>
+            </div>
+
+            @if (!string.IsNullOrEmpty(Model.Mensaje))
+            {
+                <span class="texto-error">@Model.Mensaje</span>
+            }
+
+            <div class="col-sm-12 col-lg-12 col-md-12 col-12 mt-3">
+                <div class="text-center">
+                    <button type="button" onclick="location.href='@Url.Action("Index", "SedeOlimpica")'" class="btn btn-sm btn-raised btn-light waves-effect" data-dismiss="modal"><i class="fa fa-undo"></i>  Regresar</button>
+                    <button id="btnGuardar" type="submit" class="btn btn-sm btn-raised btn-success waves-effect">
+                        <i class="fa fa-save iconGuardar"> Guardar </i>
+                        <i class="fa fa-spinner fa-spin d-none iconCargando" style="font-size: 1rem;"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

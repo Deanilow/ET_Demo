@@ -1,0 +1,49 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+
+    <link rel="stylesheet" href="~/css/superhero.css" />
+    <link rel="stylesheet" href="~/adminlte3.1/plugins/fontawesome-free/css/all.min.css">
+    <link rel="stylesheet" href="~/lib/jquery-ui/jquery-ui.css" type="text/css" />
+    <link rel="stylesheet" href="~/lib/font-awesome/css/font-awesome.css" />
+    <link href="~/lib/AppInspinia/dist/css/animate.css" rel="stylesheet" />
+    <link href="~/lib/AppInspinia/dist/css/style.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap-material/dist/css/bootstrap-material-design.css" rel="stylesheet" />
+    <link href="~/lib/bootstrap/4.3.1/dist/css/bootstrap.css" rel="stylesheet" />
+
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body class="md-skin pace-done fixed-sidebar">
+    <div id="wrapper" class="wrapper">
+
+        <partial name="_Navigation" />
+
+        <div id="page-wrapper" class="gray-bg">
+
+            <partial name="_TopNavbar" />
+
+            <div class="mb-5">
+                @RenderBody()
+            </div>
+
+            <partial name="_Footer" />
+        </div>
+
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/bootstrap/4.3.1/dist/js/bootstrap.js"></script>
+    <script src="~/lib/popper/umd/popper.js"></script>
+    <script src="~/lib/bootstrap-material/dist/js/bootstrap-material-design.js"></script>
+    <script src="~/lib/jquery.slimscroll/dist/js/jquery.slimscroll.js"></script>
+    <script src="~/lib/metisMenu/jquery.metisMenu.js"></script>
+    <script src="~/lib/pace-progress/pace.js"></script>
+    <script src="~/lib/AppInspinia/dist/js/inspinia.js"></script>
+    <script src="~/lib/AppInspinia/dist/js/skin.config.min.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
