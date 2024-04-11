@@ -34,7 +34,7 @@
                     },
                     commandType: CommandType.StoredProcedure, commandTimeout: _commandTimeout
                 );
-                return result.First();
+                return result.FirstOrDefault();
             }
         }
 

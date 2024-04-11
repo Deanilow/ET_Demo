@@ -101,11 +101,14 @@ namespace ET.Web.Controllers
         {
             var response = await _IComplejoDeportivoService.Find(IdComplejo);
 
-            var model = _mapper.Map<ComplejoDeportivoModel>(response.Data);
+            if (response.Succeeded && response.Data is not null)
+            {
+                var model = _mapper.Map<ComplejoDeportivoModel>(response.Data);
 
-            model.SedeList = await GetListSedes();
+                model.SedeList = await GetListSedes();
 
-            if (response.Succeeded) return await Task.Run(() => View("Delete", model));
+                if (response.Succeeded) return await Task.Run(() => View("Delete", model));
+            }
 
             return NotFound();
         }
@@ -116,7 +119,7 @@ namespace ET.Web.Controllers
 
             var mapperSedes = _mapper.Map<IEnumerable<SedeOlimpicaModel>>(responseSedes.Data);
 
-            return  mapperSedes.Select(x => new SelectListItem
+            return mapperSedes.Select(x => new SelectListItem
             {
                 Text = x.Nombre,
                 Value = x.Id.ToString(),

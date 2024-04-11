@@ -83,8 +83,8 @@ namespace ET.Web.Controllers
         public async Task<IActionResult> Delete(Guid IdSede)
         {
             var response = await _ISedeOlimpicaService.Find(IdSede);
-            
-            if (response.Succeeded) return await Task.Run(() => View("Delete", _mapper.Map<SedeOlimpicaModel>(response.Data)));
+
+            if(response.Succeeded && response.Data is not null) return await Task.Run(() => View("Delete", _mapper.Map<SedeOlimpicaModel>(response.Data)));
 
             return NotFound();
         }
