@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj": {}
+    "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj": {
+    "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj",
+        "projectUniqueName": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj",
         "projectName": "ET.Domain",
-        "projectPath": "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj",
+        "projectPath": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj",
         "packagesPath": "C:\\Users\\SERVER\\.nuget\\packages\\",
-        "outputPath": "D:\\Dev\\ET\\ET.Domain\\obj\\",
+        "outputPath": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

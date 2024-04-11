@@ -1003,11 +1003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Dev\\ET\\ET.DataAccess\\ET.DataAccess.csproj",
+      "projectUniqueName": "D:\\Dev\\EvaluacionTecnica\\ET.DataAccess\\ET.DataAccess.csproj",
       "projectName": "ET.DataAccess",
-      "projectPath": "D:\\Dev\\ET\\ET.DataAccess\\ET.DataAccess.csproj",
+      "projectPath": "D:\\Dev\\EvaluacionTecnica\\ET.DataAccess\\ET.DataAccess.csproj",
       "packagesPath": "C:\\Users\\SERVER\\.nuget\\packages\\",
-      "outputPath": "D:\\Dev\\ET\\ET.DataAccess\\obj\\",
+      "outputPath": "D:\\Dev\\EvaluacionTecnica\\ET.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1029,8 +1029,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj": {
-              "projectPath": "D:\\Dev\\ET\\ET.Domain\\ET.Domain.csproj"
+            "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj": {
+              "projectPath": "D:\\Dev\\EvaluacionTecnica\\ET.Domain\\ET.Domain.csproj"
             }
           }
         }

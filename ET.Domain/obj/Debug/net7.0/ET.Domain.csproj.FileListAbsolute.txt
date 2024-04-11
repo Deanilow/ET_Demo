@@ -10,3 +10,16 @@ D:\Dev\ET\ET.Domain\obj\Debug\net7.0\ET.Domain.dll
 D:\Dev\ET\ET.Domain\obj\Debug\net7.0\refint\ET.Domain.dll
 D:\Dev\ET\ET.Domain\obj\Debug\net7.0\ET.Domain.pdb
 D:\Dev\ET\ET.Domain\obj\Debug\net7.0\ref\ET.Domain.dll
+D:\Dev\EvaluacionTecnica\ET.Domain\bin\Debug\net7.0\ET.Domain.deps.json
+D:\Dev\EvaluacionTecnica\ET.Domain\bin\Debug\net7.0\ET.Domain.dll
+D:\Dev\EvaluacionTecnica\ET.Domain\bin\Debug\net7.0\ET.Domain.pdb
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.csproj.AssemblyReference.cache
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.AssemblyInfoInputs.cache
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.AssemblyInfo.cs
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.csproj.CoreCompileInputs.cache
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.sourcelink.json
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.dll
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\refint\ET.Domain.dll
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ET.Domain.pdb
+D:\Dev\EvaluacionTecnica\ET.Domain\obj\Debug\net7.0\ref\ET.Domain.dll

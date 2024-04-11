@@ -1,126 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dev\\ET\\",
+  "WorkspaceRootPath": "D:\\Dev\\EvaluacionTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\controllers\\complejodeportivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\controllers\\complejodeportivocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\controllers\\sedeolimpicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\controllers\\sedeolimpicacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\services\\autenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\services\\autenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\services\\complejodeportivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\services\\complejodeportivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\common\\authenticationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\iservice\\iautenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\iservice\\iautenticacionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\iservice\\icomplejodeportivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\iservice\\icomplejodeportivoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\iservice\\isedeolimpicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\iservice\\isedeolimpicaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\irepository\\isedeolimpicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\irepository\\isedeolimpicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\irepository\\icomplejodeportivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\irepository\\icomplejodeportivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\irepository\\iautenticacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\irepository\\iautenticacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\icore\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\icore\\ipasswordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\interface\\icore\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\interface\\icore\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\repository\\sedeolimpicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\repository\\sedeolimpicarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\repository\\complejodeportivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\repository\\complejodeportivorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\repository\\autenticacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\repository\\autenticacionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\conexion\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\conexion\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\wwwroot\\css\\login\\applogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\wwwroot\\css\\login\\applogin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\et\\et.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\services\\sedeolimpicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\services\\sedeolimpicoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\services\\passwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|d:\\dev\\et\\et.domain\\common\\auditor\u00EDa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{457236AB-3307-4D1F-A1EC-C6BAD111E6D5}|ET.Domain\\ET.Domain.csproj|solutionrelative:et.domain\\common\\auditor\u00EDa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|d:\\dev\\et\\et.dataaccess\\conexion\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{32F1D3C3-99B4-43A2-8C53-23710ABD24B1}|ET.DataAccess\\ET.DataAccess.csproj|solutionrelative:et.dataaccess\\conexion\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|d:\\dev\\evaluaciontecnica\\et.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7BCBC3B5-8247-4578-997F-BE6A67137F91}|ET.Web\\ET.Web.csproj|solutionrelative:et.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,8 +46,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1429,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ET.Web\\Program.cs",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Program.cs",
+              "RelativeToolTip": "ET.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:11:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ET.Web\\appsettings.Development.json",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Development.json",
+              "RelativeToolTip": "ET.Web\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T14:11:18.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "ET.Web\\appsettings.Production.json",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.Production.json",
+              "RelativeToolTip": "ET.Web\\appsettings.Production.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T14:11:07.577Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
@@ -146,388 +101,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Views\\Login\\Index.cshtml",
-              "RelativeDocumentMoniker": "ET.Web\\Views\\Login\\Index.cshtml",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Views\\Login\\Index.cshtml",
-              "RelativeToolTip": "ET.Web\\Views\\Login\\Index.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAACAAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T07:05:13.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ComplejoDeportivoController.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Controllers\\ComplejoDeportivoController.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Controllers\\ComplejoDeportivoController.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Controllers\\ComplejoDeportivoController.cs",
-              "RelativeToolTip": "ET.Web\\Controllers\\ComplejoDeportivoController.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAwwBAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T07:01:34.96Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "ET.Web\\appsettings.json",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\appsettings.json",
+              "RelativeToolTip": "ET.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-11T14:10:51.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "SedeOlimpicaController.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Controllers\\SedeOlimpicaController.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Controllers\\SedeOlimpicaController.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Controllers\\SedeOlimpicaController.cs",
-              "RelativeToolTip": "ET.Web\\Controllers\\SedeOlimpicaController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB8AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T07:01:20.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ET.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAA0AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T07:01:19.047Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ISedeOlimpicaService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\ISedeOlimpicaService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IService\\ISedeOlimpicaService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\ISedeOlimpicaService.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IService\\ISedeOlimpicaService.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "ET.Web\\Views\\Usuario\\Index.cshtml",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "ET.Web\\Views\\Usuario\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:45.991Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AutenticacionService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Services\\AutenticacionService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Services\\AutenticacionService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Services\\AutenticacionService.cs",
-              "RelativeToolTip": "ET.Domain\\Services\\AutenticacionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBEAAABUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:47.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ComplejoDeportivoService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Services\\ComplejoDeportivoService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Services\\ComplejoDeportivoService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Services\\ComplejoDeportivoService.cs",
-              "RelativeToolTip": "ET.Domain\\Services\\ComplejoDeportivoService.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAowCcAAABgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:48.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Controllers\\LoginController.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "ET.Web\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAIwCIAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:59:02.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IComplejoDeportivoService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\IComplejoDeportivoService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IService\\IComplejoDeportivoService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\IComplejoDeportivoService.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IService\\IComplejoDeportivoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:45.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ISedeOlimpicaRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\ISedeOlimpicaRepository.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IRepository\\ISedeOlimpicaRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\ISedeOlimpicaRepository.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IRepository\\ISedeOlimpicaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:44.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IAutenticacionService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\IAutenticacionService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IService\\IAutenticacionService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IService\\IAutenticacionService.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IService\\IAutenticacionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:45.056Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:10:50.008Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\GlobalUsing.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\GlobalUsing.cs",
-              "RelativeToolTip": "ET.Domain\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:45:00.394Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ET.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ET.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:10:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "ET.Web\\Views\\Home\\Error.cshtml",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "ET.Web\\Views\\Home\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:09:57.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ET.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ET.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-11T14:09:22.643Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "AuthenticationResult.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Common\\AuthenticationResult.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Common\\AuthenticationResult.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Common\\AuthenticationResult.cs",
-              "RelativeToolTip": "ET.Domain\\Common\\AuthenticationResult.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:36.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IComplejoDeportivoRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\IComplejoDeportivoRepository.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IRepository\\IComplejoDeportivoRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\IComplejoDeportivoRepository.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IRepository\\IComplejoDeportivoRepository.cs",
+              "Title": "_Footer.cshtml",
+              "DocumentMoniker": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Footer.cshtml",
+              "RelativeDocumentMoniker": "ET.Web\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "D:\\Dev\\EvaluacionTecnica\\ET.Web\\Views\\Shared\\_Footer.cshtml",
+              "RelativeToolTip": "ET.Web\\Views\\Shared\\_Footer.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:43.871Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IAutenticacionRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\IAutenticacionRepository.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\IRepository\\IAutenticacionRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\IRepository\\IAutenticacionRepository.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\IRepository\\IAutenticacionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:43.134Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "IPasswordService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\ICore\\IPasswordService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\ICore\\IPasswordService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\ICore\\IPasswordService.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\ICore\\IPasswordService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:42.069Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Interface\\ICore\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Interface\\ICore\\IBaseRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Interface\\ICore\\IBaseRepository.cs",
-              "RelativeToolTip": "ET.Domain\\Interface\\ICore\\IBaseRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:40.934Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SedeOlimpicaRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
-              "RelativeToolTip": "ET.DataAccess\\Repository\\SedeOlimpicaRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:21.056Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ComplejoDeportivoRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\ComplejoDeportivoRepository.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\Repository\\ComplejoDeportivoRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\ComplejoDeportivoRepository.cs",
-              "RelativeToolTip": "ET.DataAccess\\Repository\\ComplejoDeportivoRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:15.862Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AutenticacionRepository.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\AutenticacionRepository.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\Repository\\AutenticacionRepository.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\Repository\\AutenticacionRepository.cs",
-              "RelativeToolTip": "ET.DataAccess\\Repository\\AutenticacionRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:13.175Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Base.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\Conexion\\Base.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\Conexion\\Base.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\Conexion\\Base.cs",
-              "RelativeToolTip": "ET.DataAccess\\Conexion\\Base.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:10.496Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppLogin.css",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\wwwroot\\css\\Login\\AppLogin.css",
-              "RelativeDocumentMoniker": "ET.Web\\wwwroot\\css\\Login\\AppLogin.css",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\wwwroot\\css\\Login\\AppLogin.css",
-              "RelativeToolTip": "ET.Web\\wwwroot\\css\\Login\\AppLogin.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-11T06:53:35.244Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Base\\BaseController.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Base\\BaseController.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Base\\BaseController.cs",
-              "RelativeToolTip": "ET.Web\\Base\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:48:30.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "ET.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "ET.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-11T06:50:07.11Z",
+              "WhenOpened": "2024-04-11T14:09:22.111Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PasswordService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Services\\PasswordService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Services\\PasswordService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Services\\PasswordService.cs",
-              "RelativeToolTip": "ET.Domain\\Services\\PasswordService.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:48.557Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SedeOlimpicoService.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Services\\SedeOlimpicoService.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Services\\SedeOlimpicoService.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Services\\SedeOlimpicoService.cs",
-              "RelativeToolTip": "ET.Domain\\Services\\SedeOlimpicoService.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:49.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Web\\Program.cs",
-              "RelativeDocumentMoniker": "ET.Web\\Program.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Web\\Program.cs",
-              "RelativeToolTip": "ET.Web\\Program.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:48:26.194Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Auditor\u00EDa.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.Domain\\Common\\Auditor\u00EDa.cs",
-              "RelativeDocumentMoniker": "ET.Domain\\Common\\Auditor\u00EDa.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.Domain\\Common\\Auditor\u00EDa.cs",
-              "RelativeToolTip": "ET.Domain\\Common\\Auditor\u00EDa.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:35.619Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Sql.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\Conexion\\Sql.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\Conexion\\Sql.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\Conexion\\Sql.cs",
-              "RelativeToolTip": "ET.DataAccess\\Conexion\\Sql.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:11.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "D:\\Dev\\ET\\ET.DataAccess\\GlobalUsing.cs",
-              "RelativeDocumentMoniker": "ET.DataAccess\\GlobalUsing.cs",
-              "ToolTip": "D:\\Dev\\ET\\ET.DataAccess\\GlobalUsing.cs",
-              "RelativeToolTip": "ET.DataAccess\\GlobalUsing.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-11T06:44:07.751Z"
             }
           ]
         },

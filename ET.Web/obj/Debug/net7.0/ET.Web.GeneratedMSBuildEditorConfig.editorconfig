@@ -9,91 +9,91 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ET.Web
 build_property.RootNamespace = ET.Web
-build_property.ProjectDir = D:\Dev\ET\ET.Web\
+build_property.ProjectDir = D:\Dev\EvaluacionTecnica\ET.Web\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = true
-build_property.MSBuildProjectDirectory = D:\Dev\ET\ET.Web
+build_property.MSBuildProjectDirectory = D:\Dev\EvaluacionTecnica\ET.Web
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Dev/ET/ET.Web/Views/ComplejoDeportivo/Create.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/ComplejoDeportivo/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxlam9EZXBvcnRpdm9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/ComplejoDeportivo/Delete.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/ComplejoDeportivo/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxlam9EZXBvcnRpdm9cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/ComplejoDeportivo/Index.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/ComplejoDeportivo/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxlam9EZXBvcnRpdm9cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/ComplejoDeportivo/Update.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/ComplejoDeportivo/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGxlam9EZXBvcnRpdm9cVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Home/Error.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Home/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFcnJvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Home/Index.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Login/Index.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Login/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9naW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/SedeOlimpica/Create.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/SedeOlimpica/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VkZU9saW1waWNhXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/SedeOlimpica/Delete.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/SedeOlimpica/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VkZU9saW1waWNhXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/SedeOlimpica/Index.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/SedeOlimpica/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VkZU9saW1waWNhXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/SedeOlimpica/Update.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/SedeOlimpica/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VkZU9saW1waWNhXFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/Error.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/_Footer.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/_Footer.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/_Navigation.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/_Navigation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/_TopNavbar.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/_TopNavbar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ub3BOYXZiYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Usuario/Index.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Usuario/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/_ViewImports.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/_ViewStart.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Dev/ET/ET.Web/Views/Shared/_Layout.cshtml]
+[D:/Dev/EvaluacionTecnica/ET.Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-a14hzkwtrv

@@ -22,14 +22,14 @@ namespace ET.Web.Controllers
         {
             var response = await _ISedeOlimpicaService.GetAll();
 
-            return View(_mapper.Map<IEnumerable<SedeOlimpicaModel>>(response.Data));
+            return await Task.Run(() => View("Index", _mapper.Map<IEnumerable<SedeOlimpicaModel>>(response.Data)));
         }
 
         public async Task<IActionResult> Create()
         {
             var model = new SedeOlimpicaModel();
 
-            return View(model);
+            return await Task.Run(() => View("Create", model));
         }
 
         [HttpPost]
@@ -47,18 +47,16 @@ namespace ET.Web.Controllers
                 else
                 {
                     model.Mensaje = response.Message;
-
-                    return await Task.Run(() => View("Create", model));
                 }
             }
-            return View(model);
+            return await Task.Run(() => View("Create", model));
         }
 
         public async Task<IActionResult> Update(Guid IdSede)
         {
             var response = await _ISedeOlimpicaService.Find(IdSede);
 
-            if (response.Succeeded) return View(_mapper.Map<SedeOlimpicaModel>(response.Data));
+            if (response.Succeeded && response.Data is not null) return await Task.Run(() => View("Update", _mapper.Map<SedeOlimpicaModel>(response.Data)));
 
             return NotFound();
         }
@@ -78,16 +76,15 @@ namespace ET.Web.Controllers
                 else
                 {
                     model.Mensaje = response.Message;
-                    return await Task.Run(() => View("Update", model));
                 }
             }
-            return View(model);
+            return await Task.Run(() => View("Update", model));
         }
         public async Task<IActionResult> Delete(Guid IdSede)
         {
             var response = await _ISedeOlimpicaService.Find(IdSede);
-
-            if (response.Succeeded) return View(_mapper.Map<SedeOlimpicaModel>(response.Data));
+            
+            if (response.Succeeded) return await Task.Run(() => View("Delete", _mapper.Map<SedeOlimpicaModel>(response.Data)));
 
             return NotFound();
         }
@@ -99,8 +96,9 @@ namespace ET.Web.Controllers
             var response = await _ISedeOlimpicaService.Delete(Guid.Parse(model.Id.ToString()));
 
             if (response.Succeeded) return RedirectToAction(nameof(Index));
-          
-            return View(model);
+
+            return await Task.Run(() => View("Delete", model));
+
         }
     }
 }
