@@ -1,4 +1,4 @@
-# EvaluacionTecnica
+# ET
 EvaluacionTecnica Full Stack .Net
 
 Hecho con .Net 7 y SqlServer
